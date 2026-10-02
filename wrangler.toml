@@ -1,0 +1,8 @@
+name = "la-petite-team"
+pages_build_output_dir = "."
+compatibility_date = "2026-10-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "la-petite-team-db"
+database_id = "A_REMPLACER_APRES_CREATION_D1"
